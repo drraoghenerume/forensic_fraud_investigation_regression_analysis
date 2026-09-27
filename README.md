@@ -1,0 +1,2 @@
+# forensic_fraud_investigation_regression_analysis
+Using the Python programming language, this analysis tested seven hypotheses across three phases: whether AI, BCT, and BDA relate to, individually predict, and jointly predict the perceived effectiveness of Forensic Fraud Investigation (FFI). Pearson correlation, simple and multiple linear regressions were used, with OLS assumption checks reported.
